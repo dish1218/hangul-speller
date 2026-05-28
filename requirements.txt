@@ -1,0 +1,2 @@
+hangul-speller>=0.1
+PyQt5>=5.15
